@@ -1,0 +1,17 @@
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\bin\Debug\net6.0\ETicaretAPI.Infrustruction.deps.json
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\bin\Debug\net6.0\ETicaretAPI.Infrustruction.dll
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\bin\Debug\net6.0\ETicaretAPI.Infrustruction.pdb
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.AssemblyInfoInputs.cache
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.AssemblyInfo.cs
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.csproj.CopyComplete
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.dll
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\refint\ETicaretAPI.Infrustruction.dll
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.pdb
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ref\ETicaretAPI.Infrustruction.dll
