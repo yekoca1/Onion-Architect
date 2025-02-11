@@ -1,5 +1,6 @@
-﻿using ETicaretAPI.Application.Abstractions;
-using ETicaretAPI.Persistance.Concrete;
+﻿using Microsoft.EntityFrameworkCore;
+using ETicaretAPI.Application.Abstractions;
+using ETicaretAPI.Persistance.Contexts;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -14,7 +15,7 @@ namespace ETicaretAPI.Persistance
     {
         public static void AddPersistanceServices(this IServiceCollection services)  // Bir extension metod oluşturduk, bu metodu IOC containerda tanımlıycaz.
         {
-            services.AddScoped<IProductService, ProductService>(); //Bu sayede APP.deki abstract metod ile Persistance'daki concrete metodu bağladık.
+            services.AddDbContext<ETicaretAPIDbContext>(options => options.UseNpgsql(Configuration.ConnectionString));   
         }
     }
 }

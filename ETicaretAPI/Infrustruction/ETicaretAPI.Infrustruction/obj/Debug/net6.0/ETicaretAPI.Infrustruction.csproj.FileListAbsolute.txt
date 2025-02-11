@@ -10,8 +10,8 @@ C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI
 C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.AssemblyInfoInputs.cache
 C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.AssemblyInfo.cs
 C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.csproj.CoreCompileInputs.cache
-C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.csproj.CopyComplete
 C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.dll
 C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\refint\ETicaretAPI.Infrustruction.dll
 C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaretAPI.Infrustruction.pdb
 C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ref\ETicaretAPI.Infrustruction.dll
+C:\Users\yunus\Desktop\ETicaretUygulamasi\ETicaretAPI\Infrustruction\ETicaretAPI.Infrustruction\obj\Debug\net6.0\ETicaret.1C276CD3.Up2Date

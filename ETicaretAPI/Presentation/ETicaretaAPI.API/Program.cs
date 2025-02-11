@@ -1,6 +1,9 @@
 ﻿using ETicaretAPI.Persistance;
 var builder = WebApplication.CreateBuilder(args);
 
+var configuration = builder.Configuration;//Confşguration dosyası için 
+
+
 // Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -36,3 +39,7 @@ app.MapControllers();
 app.Run();
 
 
+builder.Configuration
+    .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddEnvironmentVariables();
