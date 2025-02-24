@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "JzTeFGGB+C8=",
+=======
+  "dgSpecHash": "vsvD0Scdo4E=",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\yunus\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretaAPI.API\\ETicaretaAPI.API.csproj",
   "expectedPackageFiles": [

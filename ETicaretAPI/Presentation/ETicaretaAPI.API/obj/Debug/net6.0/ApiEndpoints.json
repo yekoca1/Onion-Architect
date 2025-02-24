@@ -1,12 +1,43 @@
 [
   {
+<<<<<<< Updated upstream
     "ContainingType": "ETicaretaAPI.API.Controllers.ProductsController",
     "Method": "GetProducts",
     "RelativePath": "api/Products",
+=======
+    "ContainingType": "ETicaretAPI.API.Controllers.ProductController",
+    "Method": "Get",
+    "RelativePath": "api/Product",
+>>>>>>> Stashed changes
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+<<<<<<< Updated upstream
+=======
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ETicaretAPI.API.Controllers.ProductController",
+    "Method": "Get",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+>>>>>>> Stashed changes
     "ReturnTypes": []
   }
 ]

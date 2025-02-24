@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "ZEbgRhT/980=",
+=======
+  "dgSpecHash": "Ed8JhlTI++E=",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\yunus\\Desktop\\ETicaretUygulamasi\\ETicaretAPI\\Infrustruction\\ETicaretAPI.Persistance\\ETicaretAPI.Persistance.csproj",
   "expectedPackageFiles": [
